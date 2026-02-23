@@ -1,7 +1,7 @@
 import manageorders from '@components/MultiVendor/ManageOrders/ManageOrders';
 
 manageorders.meta = {
-	title: 'Orders | E-Commerce Solution',
+	title: 'Orders | Heaven World',
 };
 manageorders.auth = true;
 

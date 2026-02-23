@@ -113,9 +113,7 @@ const ContactUs = () => {
 											<i className='fas fa-map-marker-alt' />
 											<span>
 												<strong>Our Location</strong>
-												J3, Jhalana Institutional Area,
-												Jhalana Dungri, Jaipur,
-												Rajasthan 302004
+												Gomati Nagar Lucknow
 											</span>
 										</li>
 										<li>
@@ -124,9 +122,9 @@ const ContactUs = () => {
 												<strong>
 													Contact us Anytime
 												</strong>
-												<a href='tel:+91-9898989999'>
+												<a href='tel:+91-9453547306'>
 													{' '}
-													+91-9898989999
+													+91-9453547306
 												</a>
 											</span>
 										</li>
@@ -134,8 +132,8 @@ const ContactUs = () => {
 											<i className='fas fa-envelope' />
 											<span>
 												<strong>Email us</strong>
-												<a href='mailto:support@ecommerceportal.24livehost.com'>
-													support@ecommerceportal.24livehost.com
+												<a href='mailto:theheavenworlds@gmail.com'>
+													theheavenworlds@gmail.com
 												</a>
 											</span>
 										</li>

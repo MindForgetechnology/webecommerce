@@ -1,7 +1,7 @@
 import subscriptionhistory from '@components/MultiVendor/SubscriptionHistory/SubscriptionHistory';
 
 subscriptionhistory.meta = {
-	title: 'Subscription History | E-Commerce Solution',
+	title: 'Subscription History | Heaven World',
 };
 subscriptionhistory.auth = true;
 

@@ -1,7 +1,7 @@
 import checkout from '@components/Checkout/Checkout';
 
 checkout.meta = {
-	title: 'Checkout | E-Commerce Solution',
+	title: 'Checkout | Heaven World',
 };
 
 checkout.auth = true;

@@ -1,7 +1,7 @@
 import reportmanager from './../../components/MultiVendor/ReportManager/ReportManager';
 
 reportmanager.meta = {
-	title: 'Report Manager | E-Commerce Solution',
+	title: 'Report Manager | Heaven World',
 };
 reportmanager.auth = true;
 

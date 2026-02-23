@@ -1,7 +1,7 @@
 import paymentconfirm from '@components/MultiVendor/PaymentConfirm/PaymentConfirm';
 
 paymentconfirm.meta = {
-	title: 'Payment Confirm | E-Commerce Solution',
+	title: 'Payment Confirm | Heaven World',
 };
 paymentconfirm.auth = true;
 

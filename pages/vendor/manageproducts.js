@@ -2,7 +2,7 @@
 import manageproducts from '@components/MultiVendor/ManageProducts/ManageProducts';
 
 manageproducts.meta = {
-	title: 'Products | E-Commerce Solution',
+	title: 'Products | Heaven World',
 };
 manageproducts.auth = true;
 

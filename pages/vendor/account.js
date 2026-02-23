@@ -1,7 +1,7 @@
 import account from '@components/MultiVendor/My Account/Account';
 
 account.meta = {
-	title: 'My-Account | E-Commerce Solution',
+	title: 'My-Account | Heaven World',
 };
 account.auth = true;
 

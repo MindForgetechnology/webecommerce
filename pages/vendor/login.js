@@ -1,7 +1,7 @@
 import login from '@components/MultiVendor/VendorAuth/Login';
 
 login.meta = {
-	title: 'Login | E-Commerce Solution',
+	title: 'Login | Heaven World',
 };
 
 export default login;

@@ -225,7 +225,7 @@ const Header = props => {
 											)}
 											<div className='hotline'>
 												<i className='fas fa-phone-alt' />
-												<p>Helpline (+123)4 567 890</p>
+												<p>Helpline 91+ 93352 43874</p>
 											</div>
 										</div>
 									</div>

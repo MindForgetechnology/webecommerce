@@ -11,7 +11,7 @@ const Index = () => {
 };
 
 Index.meta = {
-	title: 'E-Commerce Solution',
+	title: 'Heaven World',
 	description: 'An another solution',
 };
 export default Index;

@@ -211,7 +211,7 @@ const Footer = props => {
 											/>
 										</i>
 										<span className='ft-title'>Email</span>
-										<a href='mailto:support@ecommerceportal.24livehost.com'>
+										<a href='mailto:theheavenworlds@gmail.com'>
 											{configData?.general?.SUPPORT_EMAIL}
 										</a>
 									</div>
@@ -223,7 +223,7 @@ const Footer = props => {
 											/>
 										</i>
 										<span className='ft-title'>Phone</span>
-										<a href='callto:+91-9898989999'>
+										<a href='callto:+91-9453547306'>
 											{configData?.general?.HOTLINE}
 										</a>
 									</div>

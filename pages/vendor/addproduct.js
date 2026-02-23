@@ -2,7 +2,7 @@
 import addproduct from '@components/MultiVendor/ManageProducts/AddProduct';
 
 addproduct.meta = {
-	title: 'Products | E-Commerce Solution',
+	title: 'Products | Heaven World',
 };
 addproduct.auth = true;
 

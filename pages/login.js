@@ -1,7 +1,7 @@
 import login from '@components/Auth/Login';
 
 login.meta = {
-	title: 'Login | E-Commerce Solution',
+	title: 'Login | Heaven World',
 };
 export async function getServerSideProps(ctx) {
 	const token = ctx.req.cookies.token;

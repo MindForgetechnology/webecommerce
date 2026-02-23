@@ -1,7 +1,7 @@
 import reviews from '@components/MultiVendor/ManageReviews/Reviews';
 
 reviews.meta = {
-	title: 'Reviews | E-Commerce Solution',
+	title: 'Reviews | Heaven World',
 };
 reviews.auth = true;
 

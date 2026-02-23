@@ -1,7 +1,7 @@
 import cart from '@components/Cart/Cart';
 
 cart.meta = {
-	title: 'My Cart | E-Commerce Solution',
+	title: 'My Cart | Heaven World',
 };
 
 export default cart;

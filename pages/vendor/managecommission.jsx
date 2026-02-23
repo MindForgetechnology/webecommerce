@@ -1,7 +1,7 @@
 import managecommission from './../../components/MultiVendor/ManageCommission/ManageCommission';
 
 managecommission.meta = {
-	title: 'Manage Commission | E-Commerce Solution',
+	title: 'Manage Commission | Heaven World',
 };
 managecommission.auth = true;
 

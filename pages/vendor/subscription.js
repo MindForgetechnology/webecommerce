@@ -2,7 +2,7 @@
 import subscription from '@components/MultiVendor/VendorAuth/Subscription';
 
 subscription.meta = {
-	title: 'Subscription | E-Commerce Solution',
+	title: 'Subscription | Heaven World',
 };
 subscription.auth = true;
 

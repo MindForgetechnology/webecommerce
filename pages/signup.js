@@ -1,7 +1,7 @@
 import signup from '@components/Auth/Signup';
 
 signup.meta = {
-	title: 'Register | E-Commerce Solution',
+	title: 'Register | Heaven World',
 };
 
 export async function getServerSideProps(ctx) {

@@ -2,7 +2,7 @@
 import managecontact from '@components/ContactUs/ManageContactUs';
 
 managecontact.meta = {
-	title: 'Contact us | E-Commerce Solution',
+	title: 'Contact us | Heaven World',
 };
 
 export default managecontact;
