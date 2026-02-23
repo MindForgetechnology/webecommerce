@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7264],{51473:function(n,u,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/address-book/[id]",function(){return _(14218)}])},14218:function(n,u,_){"use strict";_.r(u);var t=_(13071);t.Z.auth=!0,u.default=t.Z}},function(n){n.O(0,[1664,3071,9774,2888,179],function(){return n(n.s=51473)}),_N_E=n.O()}]);
