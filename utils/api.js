@@ -3,9 +3,8 @@ import axios from 'axios';
 import cookie from 'js-cookie';
 
 //export const API_BASE_URL = `https://testing-admin-ecom-multi.24livehost.com/api`;
-export const API_BASE_URL = `https://adminecommerceapi.mindforgetechnology.com`;
-//const API_BASE_URL = `http://127.0.0.1:8000/api/v1`;
-// http://192.168.4.188/In-house-e-commerce-multi-php/api/v1/vendor/stripe/create-payment-link
+//export const API_BASE_URL = `https://adminecommerceapi.mindforgetechnology.com`;
+export const API_BASE_URL = `https://api.heavenworlds.com`;
 
 export const headerValue = async () => {
 	const USER = cookie.get('userAuth');
